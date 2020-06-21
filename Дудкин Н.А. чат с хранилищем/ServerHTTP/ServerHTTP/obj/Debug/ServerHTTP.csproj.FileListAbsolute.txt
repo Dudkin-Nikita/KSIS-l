@@ -1,0 +1,21 @@
+G:\4term\КСиС\Lab2_Chat\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.exe.config
+G:\4term\КСиС\Lab2_Chat\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.exe
+G:\4term\КСиС\Lab2_Chat\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.pdb
+G:\4term\КСиС\Lab2_Chat\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.csprojAssemblyReference.cache
+G:\4term\КСиС\Lab2_Chat\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.csproj.CoreCompileInputs.cache
+G:\4term\КСиС\Lab2_Chat\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.exe
+G:\4term\КСиС\Lab2_Chat\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.pdb
+E:\CHAT-KSIS--master\Lab2_Chat\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.exe.config
+E:\CHAT-KSIS--master\Lab2_Chat\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.exe
+E:\CHAT-KSIS--master\Lab2_Chat\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.pdb
+E:\CHAT-KSIS--master\Lab2_Chat\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.csprojAssemblyReference.cache
+E:\CHAT-KSIS--master\Lab2_Chat\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.csproj.CoreCompileInputs.cache
+E:\CHAT-KSIS--master\Lab2_Chat\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.exe
+E:\CHAT-KSIS--master\Lab2_Chat\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.pdb
+E:\КСИС\Дудкин Н.А. чат\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.exe.config
+E:\КСИС\Дудкин Н.А. чат\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.exe
+E:\КСИС\Дудкин Н.А. чат\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.pdb
+E:\КСИС\Дудкин Н.А. чат\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.csprojAssemblyReference.cache
+E:\КСИС\Дудкин Н.А. чат\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.csproj.CoreCompileInputs.cache
+E:\КСИС\Дудкин Н.А. чат\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.exe
+E:\КСИС\Дудкин Н.А. чат\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.pdb
