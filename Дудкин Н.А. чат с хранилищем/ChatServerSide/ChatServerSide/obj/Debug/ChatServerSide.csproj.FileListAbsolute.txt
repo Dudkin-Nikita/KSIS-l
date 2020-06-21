@@ -1,0 +1,30 @@
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\bin\Debug\ChatServerSide.exe.config
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\bin\Debug\ChatServerSide.exe
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\bin\Debug\ChatServerSide.pdb
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\bin\Debug\ChatCommoInfo.dll
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\bin\Debug\ChatCommoInfo.pdb
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.csprojAssemblyReference.cache
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.csproj.CoreCompileInputs.cache
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.csproj.CopyComplete
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.exe
+G:\4term\КСиС\Lab2_Chat\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.pdb
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\bin\Debug\ChatServerSide.exe.config
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\bin\Debug\ChatServerSide.exe
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\bin\Debug\ChatServerSide.pdb
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\bin\Debug\ChatCommoInfo.dll
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\bin\Debug\ChatCommoInfo.pdb
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.csprojAssemblyReference.cache
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.csproj.CoreCompileInputs.cache
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.csproj.CopyComplete
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.exe
+E:\КСИС\Кашевский\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.pdb
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.csprojAssemblyReference.cache
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.csproj.CoreCompileInputs.cache
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.exe
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.pdb
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\bin\Debug\ChatServerSide.exe.config
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\bin\Debug\ChatServerSide.exe
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\bin\Debug\ChatServerSide.pdb
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\bin\Debug\ChatCommoInfo.dll
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\bin\Debug\ChatCommoInfo.pdb
+E:\КСИС\Дудкин Н.А. чат\ChatServerSide\ChatServerSide\obj\Debug\ChatServerSide.csproj.CopyComplete

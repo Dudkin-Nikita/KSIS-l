@@ -1,0 +1,24 @@
+G:\4term\КСиС\Lab2_Chat\ChatCommonInfo\ChatCommoInfo\bin\Debug\ChatCommoInfo.dll
+G:\4term\КСиС\Lab2_Chat\ChatCommonInfo\ChatCommoInfo\bin\Debug\ChatCommoInfo.pdb
+G:\4term\КСиС\Lab2_Chat\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.csprojAssemblyReference.cache
+G:\4term\КСиС\Lab2_Chat\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.csproj.CoreCompileInputs.cache
+G:\4term\КСиС\Lab2_Chat\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.dll
+G:\4term\КСиС\Lab2_Chat\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.pdb
+E:\КСИС\Кашевский\ChatCommonInfo\ChatCommoInfo\bin\Debug\ChatCommoInfo.dll
+E:\КСИС\Кашевский\ChatCommonInfo\ChatCommoInfo\bin\Debug\ChatCommoInfo.pdb
+E:\КСИС\Кашевский\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.csprojAssemblyReference.cache
+E:\КСИС\Кашевский\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.csproj.CoreCompileInputs.cache
+E:\КСИС\Кашевский\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.dll
+E:\КСИС\Кашевский\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.pdb
+E:\КСИС\Дудкин Н.А. чат\ChatCommonInfo\ChatCommoInfo\bin\Debug\ChatCommoInfo.dll
+E:\КСИС\Дудкин Н.А. чат\ChatCommonInfo\ChatCommoInfo\bin\Debug\ChatCommoInfo.pdb
+E:\КСИС\Дудкин Н.А. чат\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.csprojAssemblyReference.cache
+E:\КСИС\Дудкин Н.А. чат\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.csproj.CoreCompileInputs.cache
+E:\КСИС\Дудкин Н.А. чат\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.dll
+E:\КСИС\Дудкин Н.А. чат\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.pdb
+E:\КСИС\Дудкин Н.А. чат — копия\ChatCommonInfo\ChatCommoInfo\bin\Debug\ChatCommoInfo.dll
+E:\КСИС\Дудкин Н.А. чат — копия\ChatCommonInfo\ChatCommoInfo\bin\Debug\ChatCommoInfo.pdb
+E:\КСИС\Дудкин Н.А. чат — копия\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.csprojAssemblyReference.cache
+E:\КСИС\Дудкин Н.А. чат — копия\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.csproj.CoreCompileInputs.cache
+E:\КСИС\Дудкин Н.А. чат — копия\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.dll
+E:\КСИС\Дудкин Н.А. чат — копия\ChatCommonInfo\ChatCommoInfo\obj\Debug\ChatCommoInfo.pdb

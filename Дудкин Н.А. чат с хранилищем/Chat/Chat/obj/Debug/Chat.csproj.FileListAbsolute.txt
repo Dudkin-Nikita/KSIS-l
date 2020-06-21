@@ -1,0 +1,71 @@
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\bin\Debug\Chat.exe.config
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\bin\Debug\Chat.exe
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\bin\Debug\Chat.pdb
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\obj\Debug\Chat.MainForm.resources
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\obj\Debug\Chat.exe
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\obj\Debug\Chat.pdb
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\bin\Debug\ChatCommoInfo.dll
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\bin\Debug\ChatCommoInfo.pdb
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\obj\Debug\Chat.csproj.CopyComplete
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\bin\Debug\ClientHTTP.dll
+G:\4term\КСиС\Lab2_Chat\Chat\Chat\bin\Debug\ClientHTTP.pdb
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\bin\Debug\Chat.exe.config
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\bin\Debug\Chat.exe
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\bin\Debug\Chat.pdb
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\bin\Debug\ChatCommoInfo.dll
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\bin\Debug\ClientHTTP.dll
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\bin\Debug\ChatCommoInfo.pdb
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\bin\Debug\ClientHTTP.pdb
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\obj\Debug\Chat.MainForm.resources
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\obj\Debug\Chat.csproj.CopyComplete
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\obj\Debug\Chat.exe
+E:\CHAT-KSIS--master\Lab2_Chat\Chat\Chat\obj\Debug\Chat.pdb
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\bin\Debug\Chat.exe.config
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\bin\Debug\Chat.exe
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\bin\Debug\Chat.pdb
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\bin\Debug\ChatCommoInfo.dll
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\bin\Debug\ClientHTTP.dll
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\bin\Debug\ChatCommoInfo.pdb
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\bin\Debug\ClientHTTP.pdb
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\obj\Debug\Chat.MainForm.resources
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\obj\Debug\Chat.csproj.CopyComplete
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\obj\Debug\Chat.exe
+E:\КСИС\Дудкин Н.А. чат\Chat\Chat\obj\Debug\Chat.pdb
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\obj\Debug\Chat.MainForm.resources
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\obj\Debug\Chat.exe
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\obj\Debug\Chat.pdb
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\bin\Debug\Chat.exe.config
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\bin\Debug\Chat.exe
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\bin\Debug\Chat.pdb
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\bin\Debug\ChatCommoInfo.dll
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\bin\Debug\ChatCommoInfo.pdb
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\obj\Debug\Chat.csproj.CopyComplete
+E:\КСИС\Дудкин Н.А. чат — копия\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\bin\Debug\Chat.exe.config
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\bin\Debug\Chat.exe
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\bin\Debug\Chat.pdb
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\bin\Debug\ChatCommoInfo.dll
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\bin\Debug\ChatCommoInfo.pdb
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\obj\Debug\Chat.MainForm.resources
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\obj\Debug\Chat.csproj.CopyComplete
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\obj\Debug\Chat.exe
+E:\КСИС\Дудкин Н.А. чат с хранилищем\Chat\Chat\obj\Debug\Chat.pdb
